@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlogActivity</string>
+    <string name="browse_image_to_upload">Browse image to upload</string>
+</resources>
